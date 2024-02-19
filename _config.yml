@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Junhang Chen"
   pronouns         : # example: "she/her"  
-  bio              : 
+  bio              : ""
   location         : 
   employer         : "Xiamen University"
   uri              : # URL
