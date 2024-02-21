@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-![cv](cv-feb2024.pdf)
+
+<embed src="{{ site.baseurl }}/files/cv-feb2024.pdf" width="600" height="700" type='application/pdf'> 
 
 <!-- 
 {% include base_path %}
