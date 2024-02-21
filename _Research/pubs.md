@@ -7,6 +7,7 @@ redirect_from:
   - /papers
 ---
 
+1212
 WORKING PAPERS
 ------
 * **Junhang Chen**, Xin Fu, “Dose Image Quality Matter? The Effect of Customer-Generated Images Quality on Product Sales,” In preparation for submission to *Journal of Management Information System* (FT50).

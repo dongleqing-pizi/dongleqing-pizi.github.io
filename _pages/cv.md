@@ -6,8 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-![cv](cv-feb2024.pdf)
+1
+<!-- ![cv](cv-feb2024.pdf) -->
 
 <!-- 
 {% include base_path %}
