@@ -1,13 +1,18 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /Research/
 author_profile: true
 redirect_from:
   - /papers
 ---
 
-WORKING PAPERS
+Research Interests
+------
+**Topic**:User Generated Content, Human-Computer Interaction, Artificial Intelligence
+**Methodology**:Econometrics, Text Mining, Image Analytics, Multi-Modal deep learning
+
+Working Papers
 ------
 * **Junhang Chen**, Xin Fu, “Dose Image Quality Matter? The Effect of Customer-Generated Images Quality on Product Sales,” In preparation for submission to *Journal of Management Information System* (FT50).
 
@@ -20,7 +25,7 @@ WORKING PAPERS
 
 * “AI agents in E-commerce Customer services(Short title),” Work-in-Progress (with Xin Fu).
 
-CONFERENCE PAPERS
+Conference Papers
 ------
 * **Junhang Chen**, Xin Fu, “Dose Image Quality Matter? The Effect of Customer-Generated Images Quality on Product Sales,” CSWIM 2023; CSAMSE 2023; UNNC PGR 2023.
 

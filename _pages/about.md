@@ -9,11 +9,6 @@ redirect_from:
 Hey there! 
 I am currently a Ph.D. Student in Information Systems at School of Management, Xiamen University, under the supervision of Prof. Xin Fu. 
 
-Research Interests
-------
-**Topic**:User Generated Content, Human-Computer Interaction, Artificial Intelligence
-**Methodology**:Econometrics, Text Mining, Image Analytics, Multi-Modal deep learning
-
 
 <!-- 
 Create content & metadata
