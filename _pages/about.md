@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 Hey there! 
-I am currently a Ph.D. Student in Information Systems at School of Management,Xiamen University, under the supervision of Prof. Xin Fu.
+I am currently a Ph.D. Student in Information Systems at School of Management,Xiamen University，under the supervision of Prof. Xin Fu.
 
 Research Interests
 ------
