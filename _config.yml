@@ -14,7 +14,7 @@ name                     : &name "Junhang Chen"
 description              : &description "personal description"
 url                      : https://dongleqing-pizi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "dongleqing-pizi/dongleqing-pizi.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,9 +24,12 @@ author:
   avatar           : "profile.png"
   name             : "Junhang Chen"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : 
-  employer         : "Xiamen University"
+  bio              : "Ph.D student<br>
+                      Information System<br>
+                      School of Management<br>
+                      Xiamen University"
+  location         : "Xiamen, Fujian, China."
+  employer         : 
   uri              : # URL
   email            : "chenjunhang@stu.xmu.edu.cn" 
 
@@ -285,14 +288,14 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  # - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
@@ -333,3 +336,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+theme: jekyll-theme-merlot
