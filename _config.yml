@@ -24,10 +24,10 @@ author:
   avatar           : "profile.png"
   name             : "Junhang Chen"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D student<br>
-                      Information System<br>
-                      School of Management<br>
-                      Xiamen University"
+  bio              : "Ph.D student,<br>
+                      Information System,<br>
+                      School of Management,<br>
+                      Xiamen University."
   location         : "Xiamen, Fujian, China."
   employer         : 
   uri              : # URL
