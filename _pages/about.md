@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hey there! I am Junhang Chen.
+Hey there! I am Junhang CHEN.
 
 I'm currently a Ph.D. Student in Information Systems at School of Management, Xiamen University, under the supervision of Prof. Xin Fu. Before that i obtained my bachelor’s degree at Wuhan University of Technology.
 

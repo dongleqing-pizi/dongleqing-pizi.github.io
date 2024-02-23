@@ -9,9 +9,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junhang Chen"
+title                    : "Junhang CHEN"
 title_separator          : "-"
-name                     : &name "Junhang Chen"
+name                     : &name "Junhang CHEN"
 description              : &description "personal description"
 url                      : https://dongleqing-pizi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "dongleqing-pizi/dongleqing-pizi.github.io"
 author:
   # Biographic information
   avatar           : "avatar.jpg"
-  name             : "Junhang Chen"
+  name             : "Junhang CHEN"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D student,<br>
                       Information System,<br>
