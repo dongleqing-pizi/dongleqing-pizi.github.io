@@ -9,9 +9,9 @@ redirect_from:
 
 Research Interests
 ------
-**Topic**:User Generated Content, Human-Computer Interaction, Artificial Intelligence
+**Topic**:AI/User Generated Content„ Human-AI Interaction, Economics of AI
 
-**Methodology**:Econometrics, Text Mining, Image Analytics, Multi-Modal deep learning
+**Methodology**:Econometrics, Text Mining, Image Analytics, Multi-Modal Deep Learning
 
 Working Papers
 ------

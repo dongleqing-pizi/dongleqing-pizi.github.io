@@ -12,4 +12,4 @@ I'm currently a Ph.D. Student in Information Systems at School of Management, Xi
 
 My research focuses on (1) multi-source multi-modal data mining (i.e., text, images, videos); (2) business analytics leveraging AI and Big Data; (3) interaction and mechanism between human and AI, and then how to improve Human-AI collaboration.
 
-Feel free to reach out to me via email for any discussion or cooperation.
+Feel free to reach out to me via email for any discussion or collaboration.
