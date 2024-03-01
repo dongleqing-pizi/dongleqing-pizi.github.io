@@ -15,7 +15,8 @@ Research Interests
 
 Working Papers
 ------
-* **Junhang Chen**, Xin Fu, “Dose Image Quality Matter? The Effect of Customer-Generated Images Quality on Product Sales,” In preparation for submission to *Journal of Management Information System* (FT50).
+* **Junhang Chen**, Xin Fu, “Dose Image Quality Matter? The Effect of Customer-Generated Images Quality on Product Sales,” In preparation for submission.
+<!-- to *Journal of Management Information System* (FT50). -->
 
 * Xiamin Fan, Shiwen Chen, **Junhang Chen**, “Artificial intelligence applications and dividends: Evidence from China,” Under review at *Technological Forecasting and Social Change* (ABS 3*).
 
