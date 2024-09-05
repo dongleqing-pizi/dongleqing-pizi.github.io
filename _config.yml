@@ -24,10 +24,10 @@ author:
   avatar           : "avatar.jpg"
   name             : "Junhang CHEN"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D student,<br>
+  bio              : "PhD student,<br>
                       Information Systems,<br>
                       XMU & CityU,<br>"
-  location         : "China."
+  location         : "China"
   employer         : 
   uri              : # URL
   email            : "chenjunhang@stu.xmu.edu.cn" 
