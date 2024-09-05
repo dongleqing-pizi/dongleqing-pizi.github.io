@@ -5,7 +5,7 @@ permalink: /Awards/
 author_profile: true
 ---
 
-* Outstanding Raper Award (Third Prize), ISEFB, 2023
+* Outstanding Paper Award (Third Prize), ISEFB, 2023
 * Excellent External Speaker, UNNC Postgraduate Research Conference, 2023
 * Outstanding Thesis Award (for bachelor), Wuhan University of Technology, 2023
 * Outstanding Graduate, Wuhan University of Technology, 2022 
